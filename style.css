@@ -12,11 +12,14 @@ body {
     padding: 50px;
 }
 
-.John {
-    max-width: 50%;
-    height: auto;
-    display:block;
-    margin-left: auto;
-    margin-right: auto;
+.photo {
+text-align: center;
+}
+.photo img {
+width: 320px;
+}
+.info {
+width: 620px;
+margin: 40px auto 0 auto;
 }
 
